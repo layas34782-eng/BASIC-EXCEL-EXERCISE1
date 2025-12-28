@@ -1,4 +1,4 @@
-<img width="854" height="32766" alt="image" src="https://github.com/user-attachments/assets/eeb6e9d4-14a7-4a01-9b4b-3b3b2a6978de" />	Task
+Tasks
 Task 1	Create a table to find out how many students have appeared for the End Test in each center.
 Task 2	Show the percentage of different performance categories in a chart.
 Task 3	"Create a table showing the count of different performance categories across the centers.
